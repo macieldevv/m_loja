@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302834322127",
+    "project_id": "monteirolojjja-ems",
+    "storage_bucket": "monteirolojjja-ems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302834322127:android:e7dbdd6c63587e1d0c85ba",
+        "android_client_info": {
+          "package_name": "com.monteiro.monteirolojjja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302834322127-d8sn033s2667s16m9ml9ac0tjjtn0bs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbnB3Gty6flIK4G5lyGYdCreUNPJ3V59o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302834322127-d8sn033s2667s16m9ml9ac0tjjtn0bs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
